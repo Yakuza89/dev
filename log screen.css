@@ -1,12 +1,19 @@
+
+
 body{
 	
 	
 	height: 400px;
 	background-image: url("ff4a.jpg");
+	background-size: 100%;
 	background-color: white;
-	opacity: ;
+	
 
 	
+}
+
+img{
+	max-width: 100%;
 }
 #idd{
 
@@ -21,15 +28,16 @@ color:red;
 
 #acesso{
 
-margin-top: 200px;
+margin-top: 14.95%;
 
-margin-left: 900px;
+margin-left: 65.2173%;
 
 height: 70%;
 background-color: white;
-width: 25%;
+width: 22%;
 border-radius:20px;
 opacity: 0.9;
+position: relative;
 
 
 }
@@ -38,10 +46,10 @@ opacity: 0.9;
 margin-top: 20px;
 background-color: #DCDCDC;
 border:none;
-;
+
 }
 #user{
-width: 300px;
+width: 90%;
 position: relative;
 margin-left:10px;
 margin-top: 18px;
@@ -54,7 +62,7 @@ height: 30px;
 
 }
 #senha{
-	width: 300px;
+	width: 90%;
 	position: relative;
 	margin-left: 10px;
 	margin-top: 50px;
@@ -70,10 +78,10 @@ height: 30px;
 #enviar{
 	margin-left: 13px;
 	margin-top: 36px;
-	width: 300px;
+	width: 90%;
 	box-shadow: none;
 	box-sizing: none;
-
+	outline: none;
 	height: 40px;
 	background-color: #3CB363;
 
@@ -99,7 +107,7 @@ height: 30px;
 }
 #roda{
 
-	top:590px;
+	top:93%;
 	right: 0px;
 	left: 0px;
 	bottom: 0px;
@@ -114,6 +122,6 @@ height: 30px;
 	top:8px;
 	font-size:13px;
 	position: relative;
-	left: 500px;
+	left: 36.36%;
 
 }
